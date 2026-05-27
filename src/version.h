@@ -7,7 +7,7 @@
 // #define		VERSION_CANDIDATE	1			// Optional
 // #define		VERSION_TYPE		"Test "	// RC, Alpha, Beta, etc.
 
-#define		VERSION_VARIANT		"Console8"
-#define     VERSION_SUBTITLE    "Rainbow"
+#define		VERSION_VARIANT		"Coffee"
+#define     VERSION_SUBTITLE    "Espresso"
 
 #endif // VERSION_H
